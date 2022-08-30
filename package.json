@@ -12,7 +12,7 @@
     "client": "cd client && npm start",
     "dev": "concurrently -n 'server,client' -c 'red,green'  \"nodemon server.js\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Maddy",
   "license": "MIT",
   "dependencies": {
     "concurrently": "^5.0.0",
